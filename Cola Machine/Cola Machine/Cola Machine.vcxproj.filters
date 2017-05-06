@@ -32,6 +32,9 @@
     <ClCompile Include="Cola Machine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HopelessColaMachine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="ZuaColaMachine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
