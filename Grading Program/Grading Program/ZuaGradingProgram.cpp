@@ -5,8 +5,8 @@
 #include <iostream>
 using namespace std;
 
-	int num;
-	int dummy;
+int num;
+int dummy;
 
 int main()
 {
@@ -46,3 +46,4 @@ int main()
 		}
 	}
 	return 0;
+}
