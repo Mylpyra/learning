@@ -12,29 +12,24 @@ int main1() {
 	while (true) {
 		int input;
 		cin >> input;
-		if (input >= 0 && input <= 100) {
-			if (input == 100) {
+		if(input >= 0 && input <= 100){
+			if(input == 100){
 				cout << "You got a perfect score!\n";
 			}
-			if (input <= 100 && input >= 90) {
+			if(input <= 100 && input >= 90){
 				cout << "You got an A!";
-			}
-			else if (input <= 89 && input >= 80) {
+			}else if(input <= 89 && input >= 80){
 				cout << "You got a B!";
-			}
-			else if (input <= 79 && input >= 70) {
+			}else if(input <= 79 && input >= 70){
 				cout << "You got a C!";
-			}
-			else if (input <= 69 && input >= 60) {
+			}else if(input <= 69 && input >= 60){
 				cout << "You got a D!";
-			}
-			else if (input <= 59 && input >= 0) {
+			}else if(input <= 59 && input >= 0){
 				cout << "You got an F!";
 			}
 			cin >> dummy;
 			return 0;
-		}
-		else {
+		}else{
 			cout << "You can't score ";
 			cout << input;
 		}
