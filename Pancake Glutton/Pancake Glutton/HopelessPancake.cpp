@@ -8,7 +8,7 @@
 
 using namespace std;
 
-int main()
+int main2()
 {
 	int pancakes[10];
 	string input;
