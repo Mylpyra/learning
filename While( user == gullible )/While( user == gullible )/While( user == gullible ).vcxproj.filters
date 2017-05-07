@@ -35,5 +35,8 @@
     <ClCompile Include="ZuaWhile%28user==gullible%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HopelessWhile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
