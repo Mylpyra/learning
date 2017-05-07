@@ -32,5 +32,8 @@
     <ClCompile Include="While( user == gullible ).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HopelessWhile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
