@@ -32,6 +32,9 @@
     <ClCompile Include="Pancake Glutton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ZuaPancake.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="HopelessPancake.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

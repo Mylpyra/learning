@@ -4,7 +4,7 @@
 #include "stdafx.h"
 
 
-int main2()
+int main1()
 {
     return 0;
 }
